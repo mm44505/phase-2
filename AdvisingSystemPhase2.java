@@ -1,4 +1,3 @@
-package datastructcureproject;
 
 /**
  * The core implementation of the Student Advising System for Phase 2.
